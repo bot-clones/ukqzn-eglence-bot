@@ -1,0 +1,42 @@
+{
+  "//1": "Developed by Motion and ukqzn",
+  "//2": "Daha fazlası için glitch.com/@ukqzn",
+  "//3": "updating this file will download and update your packages",
+  "name": "",
+  "version": "0.0.1",
+  "description": "Glitch Discord Eğlence Botu.",
+  "main": "ukqzn.js",
+  "scripts": {
+    "start": "node ukqzn.js"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "chance": "^1.1.7",
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.2.0",
+    "discord.js-commando": "^0.10.0",
+    "express": "^4.17.1",
+    "figlet": "^1.5.0",
+    "fs": "^0.0.2",
+    "jimp": "^0.16.1",
+    "math-expression-evaluator": "^1.2.22",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "node-superfetch": "^0.1.10",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.2",
+    "snekfetch": "^4.0.4"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "GPL-3.0",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
